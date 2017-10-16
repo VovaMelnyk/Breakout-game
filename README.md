@@ -9,4 +9,4 @@ This is a breakout game build with canvas and JS OOP
 * CSS 3
 * Javascript OOP
 
-Demo [github pages]()
+Demo [github pages](https://vovamelnyk.github.io/Breakout-game/)
